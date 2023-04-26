@@ -123,7 +123,7 @@ const dataportfolio = [{
         description: "Siguiendo el mouse",
         link: "https://editor.p5js.org/aspzs/full/oEwWWLxGG",
     },{
-        img: "https://raw.githubusercontent.com/aspzs/IMGSCV1.0/main/tormento%20de%20cuahutemoc%2C%20segmentada2.pngf",
+        img: "https://raw.githubusercontent.com/aspzs/IMGSCV1.0/main/tormento%20de%20cuahutemoc%2C%20segmentada2.png",
         description: "Segmentación en Siqueiros",
         link: "https://aspzs.github.io/segmentacion-de-imagenes-en-siqueiros/",
     },

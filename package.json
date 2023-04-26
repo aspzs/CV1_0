@@ -1,5 +1,5 @@
 {
-    "name": "ASP-portfolio",
+    "name": "CV_01",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -45,5 +45,5 @@
     "devDependencies": {
         "gh-pages": "^5.0.0"
     },
-    "homepage": "https://aspzs.github.io/CV1_0"
+    "homepage": "https://github.com/aspzs/CV1_0"
 }
